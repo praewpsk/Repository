@@ -1,0 +1,140 @@
+body {
+    background-color: #d36ff1;
+}
+
+.headerandmid {
+    background-color: rgb(198, 174, 255);
+    height: 3145px;
+    margin: 30px 20px 30px 20px;
+    color: #000;
+}
+
+.headerandmid h1 {
+    text-align: center;
+    padding-top: 20px;
+}
+
+.two_header {
+    background-color: white;
+    background-size: cover;
+    background-position: center;
+    padding: 24px;
+    height: 400px;
+    opacity: 0.9;
+}
+
+.two_header .text_two_header {
+    width: 50%;
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.text_text_two_header .mid_text {
+    text-align: left;
+    font-size: 22px;
+    margin: 0px 0px;
+}
+
+.text_text_two_header .bottom_text {
+    text-align: left;
+    margin: 20px 20px 20px;
+}
+
+.portfolil p {
+    color: #000;
+    text-align: center;
+    font-size: 25px;
+}
+
+.Content p {
+    background-color: #ffe6e1;
+    padding: 24px;
+    height: 300px;
+    margin: 0px 24px;
+    margin-bottom: 24px;
+    color: #000;
+    text-align: center;
+}
+
+.Content p img {
+    width: 250px;
+    transition: all 0.2s ease-in
+}
+
+.Content p img:hover {
+    transform: scale(1.1);
+    transition: all 0.2s ease-in
+}
+
+.content-body {
+    margin: 0px 24px;
+}
+
+.content-body .columns-img {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 32px;
+}
+
+.columns-img img {
+    width: 32.333%;
+    height: 400px;
+    transition: all 0.5s ease-in;
+}
+
+.columns-img img:hover {
+    transform: rotate(10deg);
+}
+
+.bottom-content {
+    background-color: #ffadcc;
+    height: 550px;
+}
+
+.bottom-content .bottom-content-text h1 {
+    padding-top: 80px;
+    text-align: center;
+}
+
+.bottom-content .bottom-content-text p {
+    text-align: center;
+}
+
+.bottom-content .icon-center {
+    display: flex;
+    justify-content: center;
+    margin-top: 24px;
+}
+
+.bottom-content-text .bottom_content_province {
+    text-align: center;
+    padding-top: 24px;
+}
+
+.bottom-content .bottom_border {
+    border: 5px solid #000b11;
+    margin: 24px 550px 0px 550px;
+    text-align: center;
+}
+
+.headerandmid .footer {
+    background-color: #000000;
+    color: #fff;
+    height: 200px;
+    padding-top: 80px;
+    text-align: center;
+}
+
+.contianer-fuid {
+    padding: center;
+}
+
+element.style {
+    width: 10px;
+    height: 10px;
+    text-align: center;
+}
